@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BerlofaBosi&show_icons=true&theme=transparent)
 
-- 🌱 I’m currently learning: ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white), ![image](Badgehttps://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=whiteURLAqui), ![image](Badhttps://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=whitegeURLAqui), ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E), ![image](Badhttps://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=whitegeURLAqui) and ![image](BadgeURLAhttps://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=whitequi)
+- 🌱 I’m currently learning: ![iPython](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white), ![HTML5](Badgehttps://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=whiteURLAqui), ![CSS3](Badhttps://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=whitegeURLAqui), ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E), ![C++](Badhttps://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=whitegeURLAqui) and ![C#](BadgeURLAhttps://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=whitequi)
 - 📫 How to reach me: On the social medias or berlofabosi.arthur@gmail.com
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/berloffabosi/)
