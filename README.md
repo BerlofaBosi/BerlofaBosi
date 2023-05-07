@@ -1,4 +1,4 @@
-### Hi there, I am Arthur Berlofa Bosi 👋
+### Hi there, I'm Arthur Berlofa Bosi 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BerlofaBosi&show_icons=true&theme=transparent)
 
