@@ -1,6 +1,6 @@
 ### Hi there, I am Arthur Berlofa Bosi 👋
-
-![Berlofa's GitHub stats](https://github-readme-stats.vercel.app/apiBerlofaBosianuraghazra&show_icons=true&theme=transparent)
+z
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BerlofaBosi&show_icons=true&theme=transparent)
 
 - 🌱 I’m currently learning Python, JS, HTML5, CSS, C++ and C#.
 - 📫 How to reach me: On the social medias or on my e-mail.
